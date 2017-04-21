@@ -25,14 +25,12 @@
 		<table style="width:auto">			
 			<tr style="width:auto">				
 				<td >
-					<!--<input placeholder="From: " name="txtFrom"  id="txtFrom" />	-->
-					<g:ui_reference name="txtFrom" query="active=true" id="txtFrom" table="x_74411_mapwize_in_indoor_location" completer="AJAXTableCompleter" onchange="setpoint(this)"/>
-					<input type="hidden" id="hdFrom"></input>
+					<input placeholder="From: " name="txtFrom"  id="txtFrom"></input>					
+					<input type="hidden" id="hdFrom" onchange="setpoint(this)"></input>
 				</td>
 				<td>
-					<!--<input placeholder="To: " name="txtTO" id="txtTO"/>-->
-					<g:ui_reference name="txtTO" query="active=true" id="txtTO" table="x_74411_mapwize_in_indoor_location" completer="AJAXTableCompleter"/>
-					<input type="hidden" id="hdTO"></input>
+					<input placeholder="To: " name="txtTO" id="txtTO"></input>					
+					<input type="hidden" id="hdTO" onchange="setpoint(this)"></input>
 				</td>
 				<td>
 					<input type="image" id="imgRoute" name="imgRoute" src="btn_route.png" alt="Rute" style="width:30px; height:30px" onclick="createDirection()"/>
