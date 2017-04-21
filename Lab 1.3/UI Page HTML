@@ -23,11 +23,11 @@
 		<table style="width:auto">			
 			<tr style="width:auto">				
 				<td >
-					<g:ui_input_field label="From: " name="txtFrom"  id="txtFrom" size="50"/>					
+					<input placeholder="From: " name="txtFrom"  id="txtFrom" />				
 					<input type="hidden" id="hdFrom"></input>
 				</td>
 				<td>
-					<g:ui_input_field label="To: " name="txtTO" id="txtTO" size="50"/>					
+					<input placeholder="To: " name="txtTO" id="txtTO"/>					
 					<input type="hidden" id="hdTO"></input>
 				</td>
 				<td>
@@ -41,4 +41,3 @@
 	
 	<div id="map"></div>
 </j:jelly>
-
