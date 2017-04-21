@@ -1,6 +1,4 @@
-    
-
- var iIndicadorTo = true;
+var iIndicadorTo = true;
 
 var ga = new GlideAjax('MapWizeAjaxHelper');
 ga.addParam('sysparm_name','getMapwizeIntegrationParams');
@@ -39,13 +37,13 @@ function MapwizeParse(response) {
 
 	map.on('placeClick', function(e){        
 
-		map.removeMarkers();
+		map.removeMarkers();		
 		if(!iIndicadorTo)
 		{
 
 		 if(document.getElementById('hdFrom').value != '') map.addMarker({placeId:document.getElementById('hdFrom').value});	
 		 
-		 document.getElementById('sys_display.txtTO').value = e.place.name;
+		 document.getElementById('txtTO').value = e.place.name;
 		 document.getElementById('hdTO').value = e.place._id;		 		 
 		 iIndicadorTo = true;	
 		} 
@@ -54,12 +52,11 @@ function MapwizeParse(response) {
 
 		 if(document.getElementById('hdTO').value != '') map.addMarker({placeId:document.getElementById('hdTO').value});		
 		 
-		 document.getElementById('sys_display.txtFrom').value = e.place.name;
+		 document.getElementById('txtFrom').value = e.place.name;
 		 document.getElementById('hdFrom').value = e.place._id;			 			
 		 iIndicadorTo = false;					
 		}
-
-		map.addMarker({placeId:e.place._id});	
+		map.addMarker({placeId: e.place._id});
     });
 
 
@@ -67,35 +64,15 @@ function MapwizeParse(response) {
 	removeMarkers = function () {
         map.removeMarkers();
 		map.stopDirections();
-		 document.getElementById('sys_display.txtFrom').value = '';
+		 document.getElementById('txtFrom').value = '';
 		 document.getElementById('hdFrom').value = '';	
 		 
-		 document.getElementById('sys_display.txtTO').value = '';
+		 document.getElementById('txtTO').value = '';
 		 document.getElementById('hdTO').value = '';	
     };
 
     createDirection = function() {
 		if((document.getElementById('hdFrom').value != '') && (document.getElementById('hdTO').value != ''))
 			map.showDirections({placeId:document.getElementById('hdFrom').value},{placeId:document.getElementById('hdTO').value}, null, function (){});
-	};
-
-    setpoint = function(obj)
-	{
-		var obj_id =obj.id;
-		var hd_id = obj_id.replace("txt","hd");
-		var id_place="";
-
-		var gr = new GlideRecord('x_74411_mapwize_in_indoor_location');
-		gr.addQuery('sys_id',obj.value);
-		gr.query();
-		if(gr.next())
-			id_place = gr.id_place;
-		
-		document.getElementById(hd_id).value =id_place;
-		map.removeMarkers();
-		map.stopDirections();
-		map.addMarker({placeId:id_place});	
-	};
-
-	
+	};	
 } 
