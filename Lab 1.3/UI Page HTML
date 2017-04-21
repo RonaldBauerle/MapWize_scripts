@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null" >	
-	<link href="526af7fcdb0722006721dc50cf9619d7.cssdbx" rel="stylesheet" type="text/css"></link>	
+	<link href="5d0c8af84f923200c55f38a18110c740.cssdbx" rel="stylesheet" type="text/css"></link>	
 	<script src ="MapWizeAll.jsdbx" type="text/javascript"></script>
 	
 	<style>
@@ -18,20 +18,16 @@
             height: auto;
         }
     </style>
-
-	
-		
+			
 	<div id="form">
 		<table style="width:auto">			
 			<tr style="width:auto">				
 				<td >
-					<!--<input placeholder="From: " name="txtFrom"  id="txtFrom" />	-->
-					<g:ui_reference name="txtFrom" query="active=true" id="txtFrom" table="x_74411_mapwize_in_indoor_location" completer="AJAXTableCompleter" onchange="setpoint(this)"/>
+					<g:ui_input_field label="From: " name="txtFrom"  id="txtFrom" size="50"/>					
 					<input type="hidden" id="hdFrom"></input>
 				</td>
 				<td>
-					<!--<input placeholder="To: " name="txtTO" id="txtTO"/>-->
-					<g:ui_reference name="txtTO" query="active=true" id="txtTO" table="x_74411_mapwize_in_indoor_location" completer="AJAXTableCompleter"/>
+					<g:ui_input_field label="To: " name="txtTO" id="txtTO" size="50"/>					
 					<input type="hidden" id="hdTO"></input>
 				</td>
 				<td>
@@ -45,3 +41,4 @@
 	
 	<div id="map"></div>
 </j:jelly>
+
