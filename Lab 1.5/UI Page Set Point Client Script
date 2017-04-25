@@ -20,7 +20,7 @@ function MapwizeParse(response) {
 		apiKey: apikey,
 		accessKey: accesskey
 	}, function () {
-		var reference = applicationname +"_indoor_application";
+		var reference = applicationname +"_indoor_location";
 		var place = g_form.getReference(reference, processPlace);
 		function processPlace(place)
 		{
@@ -47,7 +47,7 @@ function MapwizeParse(response) {
 		
 		map.on('placeClick', function(e){
 			var table = applicationname+"_indoor_location";
-			var reference = applicationname +"_indoor_application";
+			var reference = applicationname +"_indoor_location";
 			var gr = new GlideRecord(table);
 			gr.addQuery('id_place', e.place._id);
 			gr.query();
