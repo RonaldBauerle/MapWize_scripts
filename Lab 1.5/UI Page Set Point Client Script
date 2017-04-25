@@ -11,43 +11,50 @@ function MapwizeParse(response) {
 	var topleftlat = result.topleftlat;
 	var topleftlong = result.topleftlong;
 	var bottomrightlat = result.bottomrightlat;
-	var bottomrightlong = result.bottomrightlong;    
+	var bottomrightlong = result.bottomrightlong;
 	var centerplace =  result.defaultcenterplace;
-	
-//Create the map
-    //use maxBounds to limit the visible area
-    var map = Mapwize.map('map', {
-        apiKey: apikey,      
-        accessKey: accesskey                                
+	var applicationname = result.applicationname;
+	//Create the map
+	//use maxBounds to limit the visible area
+	var map = Mapwize.map('map', {
+		apiKey: apikey,
+		accessKey: accesskey
 	}, function () {
-					var place = g_form.getReference("x_74411_mapwize_in_indoor_application_app");					
-					if(place.id_place != undefined)
+		var reference = applicationname +"_indoor_application";
+		var place = g_form.getReference(reference, processPlace);
+		function processPlace(place)
+		{
+			if(place.id_place != undefined)
+				{
+					map.addMarker({placeId:place.id_place});
+					map.centerOnPlace(place.id_place);
+					
+				}
+				else
 					{
-						map.addMarker({placeId:place.id_place});
-						map.centerOnPlace(place.id_place);
-						
-					}
-					else
-					{
-						//Define the bounds of the map
-						var bounds = new L.LatLngBounds(
-							new L.LatLng(topleftlat, topleftlong),
-							new L.LatLng(bottomrightlat, bottomrightlong)
-						);
-						map.fitBounds(bounds);
-						map.centerOnPlace(centerplace);
-					} 
-    });
-
-
-	map.on('placeClick', function(e){        		
-		var gr = new GlideRecord('x_74411_mapwize_in_indoor_location');
-		gr.addQuery('id_place', e.place._id);
-		gr.query();
-		gr.next();
-				
-		g_form.setValue("x_74411_mapwize_in_indoor_application_app", gr.sys_id);
-		GlideDialogWindow.get().destroy();
-    });
-	
-} // End function MapwizeParse
+					//Define the bounds of the map
+					var bounds = new L.LatLngBounds(
+					new L.LatLng(topleftlat, topleftlong),
+					new L.LatLng(bottomrightlat, bottomrightlong)
+					);
+					map.fitBounds(bounds);
+					map.centerOnPlace(centerplace);
+				}
+			}
+			
+		});
+		
+		
+		map.on('placeClick', function(e){
+			var table = applicationname+"_indoor_location";
+			var reference = applicationname +"_indoor_application";
+			var gr = new GlideRecord(table);
+			gr.addQuery('id_place', e.place._id);
+			gr.query();
+			gr.next();
+			
+			g_form.setValue(reference, gr.sys_id);
+			GlideDialogWindow.get().destroy();
+		});
+		
+	} // End function MapwizeParse
