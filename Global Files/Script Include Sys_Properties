@@ -2,7 +2,7 @@ var MapWizeAjaxHelper = Class.create();
 MapWizeAjaxHelper.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 	getMapwizeIntegrationParams:function(){
 		var result = {};
-			gs.info('here 0 ','sserrano');
+			
 			result.apikey = gs.getProperty('x_118724_indoormap.routing.mapwize.apikey', 'd8718666af305f55890aea3cd17a3823');
 			result.accesskey = gs.getProperty('x_118724_indoormap.routing.mapwize.accesskey', 'hQv4I7nwIEHHFvJy');
 			result.topleftlat = gs.getProperty('x_118724_indoormap.routing.mapwize.bounds.topleft.lat', '11.002682');
@@ -22,7 +22,7 @@ MapWizeAjaxHelper.prototype = Object.extendsObject(global.AbstractAjaxProcessor,
 				
 			}
 			result.current_place_id = current_place_id;
-			gs.info('here 2 ','sserrano');
+			
 			var assigned_to_place_id = '';
 			if(usr.get(this.getParameter('sysparm_assigned_to_sys_id'))){
 				if(!usr.x_118724_indoormap_mapwize.nil()){
@@ -33,13 +33,13 @@ MapWizeAjaxHelper.prototype = Object.extendsObject(global.AbstractAjaxProcessor,
 			
 			var cmdb_place_id = '';
 			var cmdb = new GlideRecord('cmdb_ci');
-			gs.info('here 3 '+this.getParameter('sysparm_cmdbci_sys_id'),'sserrano');
+			
 			if(cmdb.get(this.getParameter('sysparm_cmdbci_sys_id'))){
 				if(!cmdb.x_118724_indoormap_indoor_location.nil()){
 					cmdb_place_id = cmdb.x_118724_indoormap_indoor_location.id_place.toString();
 				}
 			}
-			gs.info('here 4, cmdb_place_id: '+cmdb_place_id,'sserrano');
+			
 			result.current_cmdbci_place_id = cmdb_place_id;
 			
 			var res = new global.JSON().encode(result); // convert object to JSON string
