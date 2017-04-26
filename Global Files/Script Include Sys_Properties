@@ -11,8 +11,6 @@ MapWizeAjaxHelper.prototype = Object.extendsObject(global.AbstractAjaxProcessor,
 			result.bottomrightlong = gs.getProperty('x_118724_indoormap.routing.mapwize.bounds.bottomright.long', '-74.804306');
 			result.defaultcenterplace = gs.getProperty('x_118724_indoormap.routing.mapwize.defaultcenterplace', '58e7b607899e32001003e504');
 			result.applicationname = gs.getProperty('x_118724_indoormap.routing.mapwize.applicationname', 'x_118724_indoormap');
-			gs.info('here 1 ','sserrano');
-			
 			var current_place_id = '';
 			var usr = new GlideRecord('sys_user');
 			if(usr.get(gs.getUserID())){
