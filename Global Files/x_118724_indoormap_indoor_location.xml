@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2017-05-10 18:19:22">
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b915554e8a001031a465</id_place>
+<name_place>BCHH Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b76d899e32001003e508</id_place>
+<name_place>Beyond Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b6fa614f910010018d42</id_place>
+<name_place>Break Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bb6a554e8a001031a46b</id_place>
+<name_place>BUZZ Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7baaaedc97b00105b9f7c</id_place>
+<name_place>Command Center</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b94292036a001046c98e</id_place>
+<name_place>ELYNX Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bb0e614f910010018d46</id_place>
+<name_place>Emergency Stair</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b607899e32001003e504</id_place>
+<name_place>Entrance</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b7e0899e32001003e50c</id_place>
+<name_place>Finance &amp; Admin</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7ba38899e32001003e50e</id_place>
+<name_place>INFINITY Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b987614f910010018d44</id_place>
+<name_place>Kitchen</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bbac899e32001003e514</id_place>
+<name_place>Kitchen02</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b81092036a001046c988</id_place>
+<name_place>Lockers</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b8b092036a001046c98a</id_place>
+<name_place>Nursing</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b73dedc97b00105b9f76</id_place>
+<name_place>Office01</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b8d192036a001046c98c</id_place>
+<name_place>Ofiice02</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b7aa899e32001003e50a</id_place>
+<name_place>Orion Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b655899e32001003e506</id_place>
+<name_place>Reception</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7b696614f910010018d40</id_place>
+<name_place>Rocket Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7ba0cdcb2f500106f9ba9</id_place>
+<name_place>Stair2</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bb86554e8a001031a46d</id_place>
+<name_place>Talent Management</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7ba80899e32001003e510</id_place>
+<name_place>Training Room</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bade899e32001003e512</id_place>
+<name_place>Voice Services</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bac6dcb2f500106f9bab</id_place>
+<name_place>West Wing</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bbfe899e32001003e516</id_place>
+<name_place>WORKSTATIONA01</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bc11899e32001003e518</id_place>
+<name_place>WORKSTATIONA02</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bc22554e8a001031a46f</id_place>
+<name_place>WORKSTATIONA03</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7c20f899e32001003e51e</id_place>
+<name_place>WORKSTATIONA04</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bc56899e32001003e51a</id_place>
+<name_place>WORKSTATIONA05</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bc67edc97b00105b9f80</id_place>
+<name_place>WORKSTATIONA06</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bc83edc97b00105b9f82</id_place>
+<name_place>WORKSTATIONB01</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bc9492036a001046c990</id_place>
+<name_place>WORKSTATIONB02</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bcaf614f910010018d48</id_place>
+<name_place>WORKSTATIONB03</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bcc2614f910010018d4a</id_place>
+<name_place>WORKSTATIONB04</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bcdddcb2f500106f9bad</id_place>
+<name_place>WORKSTATIONC01</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7c251dcb2f500106f9c01</id_place>
+<name_place>WORKSTATIONC02</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd01edc97b00105b9f84</id_place>
+<name_place>WORKSTATIONC03</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd13899e32001003e51c</id_place>
+<name_place>WORKSTATIONC04</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7c296554e8a001031a474</id_place>
+<name_place>WORKSTATIONC05</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd3192036a001046c994</id_place>
+<name_place>WORKSTATIONC06</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd5692036a001046c996</id_place>
+<name_place>WORKSTATIOND01</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd6492036a001046c998</id_place>
+<name_place>WORKSTATIOND02</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd75614f910010018d4e</id_place>
+<name_place>WORKSTATIOND03</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd8792036a001046c99a</id_place>
+<name_place>WORKSTATIOND04</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5ebaa89334e2f2007f445ff1c2596dbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bd99614f910010018d50</id_place>
+<name_place>WORKSTATIOND05</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>5abaa89334e2f2007f445ff1c2596dbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bdb192036a001046c99c</id_place>
+<name_place>WORKSTATIOND06</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>56baa89334e2f2007f445ff1c2596dbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+<x_118724_indoormap_indoor_location action="INSERT_OR_UPDATE">
+<id_place>58e7bdc3554e8a001031a471</id_place>
+<name_place>WORKSTATIOND07</name_place>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-10 18:06:34</sys_created_on>
+<sys_id>52baa89334e2f2007f445ff1c2596dbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-05-10 18:06:34</sys_updated_on>
+</x_118724_indoormap_indoor_location>
+</unload>
